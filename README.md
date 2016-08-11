@@ -1,2 +1,4 @@
-# pra_github1
-This is designed to practice github and add some figures which I made.
+# Python_Demos
+This repository is a collection of python codes.
+
+twitter: Python codes for the twits.
